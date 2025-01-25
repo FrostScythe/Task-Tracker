@@ -1,0 +1,22 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "this is my backend project which include basic crud operations in nodejs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "backend",
+    "nodejs",
+    "express",
+    "webdevelopment",
+    "backend"
+  ],
+  "author": "Ayush MAheshwari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
