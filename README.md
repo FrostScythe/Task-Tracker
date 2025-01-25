@@ -85,5 +85,8 @@ Tasks are stored in `tasks.json` in the project directory.
 4. Push to the branch
 5. Create a Pull Request
 
+## Project idea
+https://roadmap.sh/projects/task-tracker
+
 ## License
 [Specify your license, e.g., MIT]#
